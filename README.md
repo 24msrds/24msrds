@@ -63,7 +63,7 @@
 ### 🏏 Final ODI Team Selector
 > AI-driven ODI cricket team selector that recommends the optimal playing XI using player data and match conditions
 
-![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/dashboard.png)
+![ODI Dashboard](https://github.com/24msrds/odi-batting-prediction-app/raw/main/dashboard.png)
 
 <!-- HOW TO ADD IMAGE:
 1. Take a screenshot of your Streamlit app running
