@@ -1,4 +1,4 @@
-    # Hi, I'm Ragul B 👋
+    # Hi, I'm Ragul B 
 
  Post Graduate in **Data Science** | Jain University, Bengaluru
  Aspiring **Data Scientist** | **Data Engineer** | **Analytics Enthusiast**
@@ -8,7 +8,7 @@
 
 ---
 
-##  Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -24,23 +24,94 @@
 
 ##  Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🏏 Final-ODI-selector](https://github.com/24msrds/Final-ODI-selector) | AI-powered ODI cricket team selector using ML | Python, Streamlit, Plotly |
-| [🎤 Voicebot](https://github.com/24msrds/Voicebot) | AI voice assistant with NLP & speech recognition | Python, NLP |
-| [🎵 Music Recommender](https://github.com/24msrds/music-recommender) | Personalised music recommendation engine | Python, ML |
-| [👗 Outfit Recommender](https://github.com/24msrds/outfit-recommender) | ML-based outfit suggestion system | Python, ML |
-| [🖥 Server Monitoring Pipeline](https://github.com/24msrds/server-monitoring-data-pipeline) | Real-time server metrics ETL data pipeline | Python |
+---
+
+###  ODI Cricket Batting Prediction App
+> ML-powered app that predicts ODI batting performance using player stats, match conditions and regression models
+
+![ODI Prediction Dashboard](https://github.com/24msrds/odi-batting-prediction-app/raw/main/dashboard.png)
+
+<!-- HOW TO ADD IMAGE:
+1. Run your app and take a screenshot
+2. Save it as dashboard.png
+3. Go to odi-batting-prediction-app repo → Add file → Upload files
+4. Upload dashboard.png and commit
+5. The image will auto-appear here! -->
+
+**Tech:** Python • Scikit-learn • Pandas • Streamlit • Plotly
+
+🔗 [View Repository](https://github.com/24msrds/odi-batting-prediction-app)
+
+---
+
+### 🎤 AI Voicebot — Intelligent Voice Assistant
+> AI-powered voice assistant that converts speech to text, processes natural language, and responds intelligently
+
+<!-- HOW TO ADD IMAGE:
+1. Run your voicebot and take a screenshot of it working
+2. Save it as voicebot_demo.png
+3. Go to Voicebot repo → Add file → Upload files
+4. Upload voicebot_demo.png and commit
+5. The image will auto-appear here! -->
+
+**Tech:** Python • NLP • SpeechRecognition • Text-to-Speech
+
+🔗 [View Repository](https://github.com/24msrds/Voicebot) &nbsp;|&nbsp; [Enhanced Version](https://github.com/24msrds/voicebot-100x)
+
+---
+
+### 🏏 Final ODI Team Selector
+> AI-driven ODI cricket team selector that recommends the optimal playing XI using player data and match conditions
+
+![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/dashboard.png)
+
+<!-- HOW TO ADD IMAGE:
+1. Take a screenshot of your Streamlit app running
+2. Save as dashboard.png
+3. Upload to Final-ODI-selector repo → the image appears here -->
+
+**Tech:** Python • Streamlit • Scikit-learn • Plotly • Pandas
+
+🔗 [View Repository](https://github.com/24msrds/Final-ODI-selector)
+
+---
+
+### 🎵 Music Recommender
+> Personalised music recommendation engine using collaborative filtering and user listening patterns
+
+**Tech:** Python • Machine Learning • Pandas • Scikit-learn
+
+🔗 [View Repository](https://github.com/24msrds/music-recommender)
+
+---
+
+### 👗 Outfit Recommender
+> Content-based outfit suggestion system using ML and attribute matching
+
+**Tech:** Python • Machine Learning • Pandas
+
+🔗 [View Repository](https://github.com/24msrds/outfit-recommender)
+
+---
+
+### 🖥 Server Monitoring Data Pipeline
+> Real-time ETL pipeline that collects, processes and visualises server metrics
+
+**Tech:** Python • Data Engineering • ETL • Pandas
+
+🔗 [View Repository](https://github.com/24msrds/server-monitoring-data-pipeline)
 
 ---
 
 ##  GitHub Stats
 
-![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24msrds&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24msrds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=24msrds&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=24msrds&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=24msrds&color=blue&style=flat&label=Profile+Views)
 
 ---
 
