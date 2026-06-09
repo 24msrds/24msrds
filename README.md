@@ -1,4 +1,4 @@
-# Hi, I'm Ragul B 👋
+    # Hi, I'm Ragul B 👋
 
 🎓 Post Graduate in **Data Science** | Jain University, Bengaluru
 💼 Aspiring **Data Scientist** | **Data Engineer** | **Analytics Enthusiast**
@@ -28,8 +28,6 @@
 |---------|-------------|------|
 | [🏏 Final-ODI-selector](https://github.com/24msrds/Final-ODI-selector) | AI-powered ODI cricket team selector using ML | Python, Streamlit, Plotly |
 | [🎤 Voicebot](https://github.com/24msrds/Voicebot) | AI voice assistant with NLP & speech recognition | Python, NLP |
-| [🎤 Voicebot-100x](https://github.com/24msrds/voicebot-100x) | Enhanced voice bot with advanced NLP capabilities | Python, NLP |
-| [🏏 ODI Batting Prediction](https://github.com/24msrds/odi-batting-prediction-app) | Predicts ODI batting performance using ML models | Python, Scikit-learn |
 | [🎵 Music Recommender](https://github.com/24msrds/music-recommender) | Personalised music recommendation engine | Python, ML |
 | [👗 Outfit Recommender](https://github.com/24msrds/outfit-recommender) | ML-based outfit suggestion system | Python, ML |
 | [🖥 Server Monitoring Pipeline](https://github.com/24msrds/server-monitoring-data-pipeline) | Real-time server metrics ETL data pipeline | Python |
@@ -48,10 +46,12 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:24msrds045@jainuniversity.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/24msrds)
 
 ---
 
 > *"Data is the new oil — and I'm here to refine it."* 🚀
+
+    
