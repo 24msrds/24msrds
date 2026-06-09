@@ -1,14 +1,14 @@
     # Hi, I'm Ragul B 👋
 
-🎓 Post Graduate in **Data Science** | Jain University, Bengaluru
-💼 Aspiring **Data Scientist** | **Data Engineer** | **Analytics Enthusiast**
-🌱 Currently exploring: Deep Learning, MLOps & Data Pipelines
-📍 Bengaluru, India
-📫 Email: 24msrds045@jainuniversity.ac.in
+ Post Graduate in **Data Science** | Jain University, Bengaluru
+ Aspiring **Data Scientist** | **Data Engineer** | **Analytics Enthusiast**
+ Currently exploring: Deep Learning, MLOps & Data Pipelines
+ Bengaluru, India
+ Email: 24msrds045@jainuniversity.ac.in
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:24msrds045@jainuniversity.ac.in)
