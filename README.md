@@ -43,7 +43,7 @@
 <div align="center">
 
 ** REPLACE THIS LINE WITH YOUR IMAGE:**
-**![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/YOURFILENAME.png)**
+**![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/blob/main/dashboard.png)**
 **→ Replace YOURFILENAME with the actual image file name in your repo**
 
 </div>
