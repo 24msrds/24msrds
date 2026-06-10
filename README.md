@@ -1,109 +1,132 @@
-    # Hi, I'm Ragul B 
+    <div align="center">
 
- Post Graduate in **Data Science** | Jain University, Bengaluru
- Aspiring **Data Scientist** | **Data Engineer** | **Analytics Enthusiast**
- Currently exploring: Deep Learning, MLOps & Data Pipelines
- Bengaluru, India
- Email: 24msrds045@jainuniversity.ac.in
+#  Hi, I'm Ragul B
+
+###  PG Data Science | Jain University, Bengaluru
+###  Aspiring Data Scientist | Data Engineer | Analytics Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24msrds045@jainuniversity.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds)
+
+![Profile Views](https://komarev.com/ghpvc/?username=24msrds&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-##  Featured Projects
-
----
-
-###  ODI Cricket Batting Prediction App
-> ML-powered app that predicts ODI batting performance using player stats, match conditions and regression models
-
-![ODI Prediction Dashboard](https://github.com/24msrds/odi-batting-prediction-app/raw/main/dashboard.png)
-
-<!-- HOW TO ADD IMAGE:
-1. Run your app and take a screenshot
-2. Save it as dashboard.png
-3. Go to odi-batting-prediction-app repo → Add file → Upload files
-4. Upload dashboard.png and commit
-5. The image will auto-appear here! -->
-
-**Tech:** Python • Scikit-learn • Pandas • Streamlit • Plotly
-
-🔗 [View Repository](https://github.com/24msrds/odi-batting-prediction-app)
-
----
-
-### 🎤 AI Voicebot — Intelligent Voice Assistant
-> AI-powered voice assistant that converts speech to text, processes natural language, and responds intelligently
-
-<!-- HOW TO ADD IMAGE:
-1. Run your voicebot and take a screenshot of it working
-2. Save it as voicebot_demo.png
-3. Go to Voicebot repo → Add file → Upload files
-4. Upload voicebot_demo.png and commit
-5. The image will auto-appear here! -->
-
-**Tech:** Python • NLP • SpeechRecognition • Text-to-Speech
-
-🔗 [View Repository](https://github.com/24msrds/Voicebot) &nbsp;|&nbsp; [Enhanced Version](https://github.com/24msrds/voicebot-100x)
+## 🚀 Featured Projects
 
 ---
 
 ### 🏏 Final ODI Team Selector
-> AI-driven ODI cricket team selector that recommends the optimal playing XI using player data and match conditions
+> AI-driven ODI cricket team selector that recommends the optimal playing XI using player stats, match conditions and ML algorithms
 
-![ODI Dashboard](https://github.com/24msrds/odi-batting-prediction-app/raw/main/dashboard.png)
+<div align="center">
 
-<!-- HOW TO ADD IMAGE:
-1. Take a screenshot of your Streamlit app running
-2. Save as dashboard.png
-3. Upload to Final-ODI-selector repo → the image appears here -->
+** REPLACE THIS LINE WITH YOUR IMAGE:**
+**![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/YOURFILENAME.png)**
+**→ Replace YOURFILENAME with the actual image file name in your repo**
 
-**Tech:** Python • Streamlit • Scikit-learn • Plotly • Pandas
+</div>
 
-🔗 [View Repository](https://github.com/24msrds/Final-ODI-selector)
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Key Features:**
+- ✅ ML-based player performance analysis
+- ✅ Match condition & venue-based selection
+- ✅ Interactive Streamlit dashboard with Plotly charts
+- ✅ Optimal XI recommendation engine
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FFinal--ODI--selector-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
+
+---
+
+### 🎤 AI Voicebot — Intelligent Voice Assistant
+> AI-powered voice assistant that converts speech to text, processes natural language commands and responds intelligently using Python NLP libraries
+
+<div align="center">
+
+**⚠️ Upload a screenshot to Voicebot repo then replace this line:**
+**![Voicebot Demo](https://github.com/24msrds/Voicebot/raw/main/YOURFILENAME.png)**
+
+</div>
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-4285F4?style=flat&logo=google&logoColor=white)
+
+**Key Features:**
+- ✅ Real-time speech to text conversion
+- ✅ Natural language command processing
+- ✅ Intelligent response generation
+- ✅ Text to speech output
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FVoicebot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Voicebot)
+[![Enhanced Version](https://img.shields.io/badge/Enhanced%20Version%20→-24msrds%2Fvoicebot--100x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/voicebot-100x)
 
 ---
 
 ### 🎵 Music Recommender
 > Personalised music recommendation engine using collaborative filtering and user listening patterns
 
-**Tech:** Python • Machine Learning • Pandas • Scikit-learn
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-🔗 [View Repository](https://github.com/24msrds/music-recommender)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Fmusic--recommender-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/music-recommender)
 
 ---
 
 ### 👗 Outfit Recommender
-> Content-based outfit suggestion system using ML and attribute matching
+> Content-based outfit suggestion system using ML and visual attribute matching
 
-**Tech:** Python • Machine Learning • Pandas
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-🔗 [View Repository](https://github.com/24msrds/outfit-recommender)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Foutfit--recommender-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/outfit-recommender)
 
 ---
 
 ### 🖥 Server Monitoring Data Pipeline
-> Real-time ETL pipeline that collects, processes and visualises server metrics
+> Real-time ETL pipeline that collects, processes and visualises server metrics — demonstrates data engineering skills
 
-**Tech:** Python • Data Engineering • ETL • Pandas
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-🔗 [View Repository](https://github.com/24msrds/server-monitoring-data-pipeline)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Fserver--monitoring--data--pipeline-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
@@ -111,18 +134,18 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=24msrds&theme=tokyonight&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=24msrds&color=blue&style=flat&label=Profile+Views)
+</div>
 
 ---
 
-##  Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:24msrds045@jainuniversity.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/24msrds)
+### 💬 Let's connect and build something amazing together!
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
 
-> *"Data is the new oil — and I'm here to refine it."* 🚀
+*"Data is the new oil — and I'm here to refine it."* 🚀
+
+</div>
 
     
