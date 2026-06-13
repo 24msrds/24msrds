@@ -63,7 +63,33 @@
 [![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FFinal--ODI--selector-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
 
 ---
+### 🤖 RD AI — Multi-Modal AI Assistant
+> Free premium-grade AI assistant with live web search, image vision, document processing, voice input and RAG pipeline — built with Streamlit and Groq LLaMA models
 
+<div align="center">
+
+![RD AI Screenshot](https://raw.githubusercontent.com/24msrds/RD_AI/main/ai.png)
+
+</div>
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA-00A67E?style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Key Features:**
+- ✅ Live RAG web search — DuckDuckGo + Wikipedia
+- ✅ Image vision analysis — LLaMA 4 Scout
+- ✅ PDF, DOCX, Excel, CSV processing
+- ✅ Voice input and output
+- ✅ Chat history with SQLite
+- ✅ 6 response modes
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo%20→-RD%20AI-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FRD__AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
+
+---
 ### 🎵 Music Recommender
 > Personalised music recommendation engine using collaborative filtering and user listening patterns
 
