@@ -64,32 +64,6 @@
 
 ---
 
-### 🎤 AI Voicebot — Intelligent Voice Assistant
-> AI-powered voice assistant that converts speech to text, processes natural language commands and responds intelligently using Python NLP libraries
-
-<div align="center">
-
-**⚠️ Upload a screenshot to Voicebot repo then replace this line:**
-**![Voicebot Demo](https://github.com/24msrds/Voicebot/raw/main/YOURFILENAME.png)**
-
-</div>
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logoColor=white)
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-4285F4?style=flat&logo=google&logoColor=white)
-
-**Key Features:**
-- ✅ Real-time speech to text conversion
-- ✅ Natural language command processing
-- ✅ Intelligent response generation
-- ✅ Text to speech output
-
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FVoicebot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Voicebot)
-[![Enhanced Version](https://img.shields.io/badge/Enhanced%20Version%20→-24msrds%2Fvoicebot--100x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/voicebot-100x)
-
----
-
 ### 🎵 Music Recommender
 > Personalised music recommendation engine using collaborative filtering and user listening patterns
 
