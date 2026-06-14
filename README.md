@@ -69,7 +69,8 @@
 <div align="center">
 
 ![RD AI Screenshot](https://raw.githubusercontent.com/24msrds/RD_AI/main/ai.png)
-
+**Live Demo**
+![RD AI Screenshot 2](https://raw.githubusercontent.com/24msrds/RD_AI/main/image.png)
 </div>
 
 **Tech Stack:**
