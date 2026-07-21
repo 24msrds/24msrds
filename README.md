@@ -1,15 +1,15 @@
     <div align="center">
 
-#  Hi, I'm Ragul B
+# 👋 Hi, I'm Ragul B
 
-###  PG Data Science | Jain University, Bengaluru
-###  Aspiring Data Scientist | Data Engineer | Analytics Enthusiast
+### 🎓 PG Data Science | Jain University, Bengaluru
+### 💼 Aspiring Data Scientist | Data Engineer | Analytics Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-b-058155281/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24msrds045@jainuniversity.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds)
 
-![Profile Views](https://komarev.com/ghpvc/?username=24msrds&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=24msrds.24msrds&style=for-the-badge)
 
 </div>
 
@@ -42,9 +42,7 @@
 
 <div align="center">
 
-** REPLACE THIS LINE WITH YOUR IMAGE:**
-**![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/blob/main/ODI%20XI%20Selector%20image-1.png)**
-**→ Replace YOURFILENAME with the actual image file name in your repo**
+![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/ODI%20XI%20Selector%20image-1.png)
 
 </div>
 
@@ -60,17 +58,17 @@
 - ✅ Interactive Streamlit dashboard with Plotly charts
 - ✅ Optimal XI recommendation engine
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FFinal--ODI--selector-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
 
 ---
+
 ### 🤖 RD AI — Multi-Modal AI Assistant
 > Free premium-grade AI assistant with live web search, image vision, document processing, voice input and RAG pipeline — built with Streamlit and Groq LLaMA models
 
 <div align="center">
 
 ![RD AI Screenshot](https://raw.githubusercontent.com/24msrds/RD_AI/main/ai.png)
-**Live Demo**
-![RD AI Screenshot 2](https://raw.githubusercontent.com/24msrds/RD_AI/main/image.png)
+
 </div>
 
 **Tech Stack:**
@@ -87,10 +85,11 @@
 - ✅ Chat history with SQLite
 - ✅ 6 response modes
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo%20→-RD%20AI-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2FRD__AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo%20→-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
 
 ---
+
 ### 🎵 Music Recommender
 > Personalised music recommendation engine using collaborative filtering and user listening patterns
 
@@ -99,7 +98,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Fmusic--recommender-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/music-recommender)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/music-recommender)
 
 ---
 
@@ -110,18 +109,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Foutfit--recommender-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/outfit-recommender)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/outfit-recommender)
 
 ---
 
 ### 🖥 Server Monitoring Data Pipeline
-> Real-time ETL pipeline that collects, processes and visualises server metrics — demonstrates data engineering skills
+> Real-time ETL pipeline that collects, processes and visualises server metrics
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-24msrds%2Fserver--monitoring--data--pipeline-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
 
 ---
 
