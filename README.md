@@ -128,9 +128,6 @@
 
 <div align="center">
 
-![Ragul's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true)
-
-&nbsp;
 
 ![Ragul's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true)
 
