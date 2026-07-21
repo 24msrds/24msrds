@@ -128,16 +128,25 @@
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=24msrds.24msrds&label=Profile%20Views&color=blue)
+![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)
+
 &nbsp;
-![Followers](https://img.shields.io/github/followers/24msrds?label=Followers&logo=github&color=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24msrds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 &nbsp;
-![Repos](https://img.shields.io/badge/Repos-9-blue?logo=github)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=24msrds&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 &nbsp;
-![Python](https://img.shields.io/badge/Top%20Language-Python-3776AB?logo=python&logoColor=white)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=24msrds.24msrds)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/24msrds?label=Followers&style=flat&logo=github&color=blue)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-9-blue?style=flat&logo=github)
 
 </div>
-<div align="center">
 
 ### 💬 Let's connect and build something amazing together!
 
