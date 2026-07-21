@@ -128,7 +128,7 @@
 
 <div align="center">
 
-![Ragul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)
+![Ragul's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true)
 
 &nbsp;
 
