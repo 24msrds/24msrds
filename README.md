@@ -138,6 +138,7 @@ status: Actively seeking full-time opportunities in Bengaluru
 
 [![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
 
+
 ---
 
 
