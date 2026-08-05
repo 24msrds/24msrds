@@ -49,105 +49,133 @@ status: Actively seeking full-time opportunities in Bengaluru
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
+---
 
 ### 🏏 Final ODI Team Selector
-AI-driven ODI cricket team selector recommending the optimal playing XI using player stats and ML.
+> AI-driven ODI cricket team selector that recommends the optimal playing XI using player stats, match conditions and ML algorithms
 
-`Python` `Streamlit` `Scikit-learn` `Plotly`
+<div align="center">
 
-- ML-based player performance analysis
-- Match condition & venue-based selection
-- Interactive Streamlit dashboard
-- Optimal XI recommendation engine
+![ODI Selector Dashboard](https://github.com/24msrds/Final-ODI-selector/raw/main/ODI%20XI%20Selector%20image-1.png)
 
-**[→ View Repository](https://github.com/24msrds/Final-ODI-selector)**
+</div>
 
-</td>
-</tr>
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-<tr>
-<td width="50%" valign="top">
+**Key Features:**
+- ✅ ML-based player performance analysis
+- ✅ Match condition & venue-based selection
+- ✅ Interactive Streamlit dashboard with Plotly charts
+- ✅ Optimal XI recommendation engine
 
-### 📊 HR Analytics Dashboard
-End-to-end Power BI dashboard analysing employee attrition across **1,470 records** using DAX measures and AI-powered visuals.
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
 
-`Power BI` `DAX` `Power Query` `Excel`
-
-- 3-page interactive dashboard
-- 6+ custom DAX measures
-- Key Influencers & Decomposition Tree
-- Surfaced overtime & department attrition drivers
-
-**[→ View Repository](https://github.com/24msrds/hr-analytics-dashboard)**
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Payroll Attendance Monitoring
-Automated payroll & attendance system eliminating manual entry and flagging discrepancies in real time.
-
-`Power BI` `Power Automate` `Excel`
-
-- Automated multi-source data consolidation
-- Real-time absenteeism & overtime tracking
-- Payroll discrepancy alerts
-- Department-level salary analysis
-
-**[→ View Repository](https://github.com/24msrds/payroll-attendance-monitoring-system)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 RD AI — Multi-Modal AI Assistant
-Free premium-grade AI assistant with live web search, vision, document processing, and a RAG pipeline built on Groq LLaMA.
+> Free premium-grade AI assistant with live web search, image vision, document processing, voice input and RAG pipeline — built with Streamlit and Groq LLaMA models
 
-`Python` `Streamlit` `Groq LLaMA` `SQLite` `RAG`
+<div align="center">
 
-- Live RAG search — DuckDuckGo + Wikipedia
-- Image vision with LLaMA 4 Scout
-- PDF, DOCX, Excel, CSV processing
-- Voice input/output + chat history
+![RD AI Screenshot](https://raw.githubusercontent.com/24msrds/RD_AI/main/ai.png)
 
-**[→ Live Demo](https://24msrds-rd-ai-app-qqlobk.streamlit.app)** · **[→ Repository](https://github.com/24msrds/RD_AI)**
+</div>
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA-00A67E?style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+**Key Features:**
+- ✅ Live RAG web search — DuckDuckGo + Wikipedia
+- ✅ Image vision analysis — LLaMA 4 Scout
+- ✅ PDF, DOCX, Excel, CSV processing
+- ✅ Voice input and output
+- ✅ Chat history with SQLite
+- ✅ 6 response modes
 
-### 🖥️ Virtual Server Monitoring
-Real-time ETL pipeline processing **5,000+ server logs** across 10+ VMs with anomaly detection.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo%20→-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
 
-`Python` `SQL` `SQLite` `Power BI`
+---
+### 📊 HR Analytics Dashboard
+> End-to-end Power BI dashboard analysing employee attrition drivers across 1,470 records using DAX measures and AI visuals (Key Influencers, Decomposition Tree)
 
-- Threshold-based anomaly detection
-- Cut CPU-issue identification time by 60%
-- 8-visual Power BI report
+**Tech Stack:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-yellow?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**[→ View Repository](https://github.com/24msrds/server-monitoring-data-pipeline)**
+**Key Features:**
+- ✅ 3-page interactive Power BI dashboard
+- ✅ 6+ custom DAX measures
+- ✅ AI visuals — Key Influencers & Decomposition Tree
+- ✅ Surfaced attrition drivers: overtime, department trends
 
-</td>
-<td width="50%" valign="top">
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/hr-analytics-dashboard)
 
-### 🎵 Music & 👗 Outfit Recommenders
-Content-based & collaborative-filtering recommendation engines using ML.
+---
 
-`Python` `Scikit-learn` `Pandas`
+### 💰 Payroll Attendance Monitoring System
+> Automated payroll and attendance tracking system that eliminates manual entry and flags absenteeism, overtime, and payroll discrepancies in real time
 
-- Personalised recommendations from user patterns
-- Visual attribute matching (outfit)
+**Tech Stack:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**[→ Music Repo](https://github.com/24msrds/music-recommender)** · **[→ Outfit Repo](https://github.com/24msrds/outfit-recommender)**
+**Key Features:**
+- ✅ Automated multi-source data consolidation
+- ✅ Real-time absenteeism & overtime tracking
+- ✅ Payroll discrepancy popup alerts
+- ✅ Department-level salary analysis
 
-</td>
-</tr>
-</table>
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
+### 🖥 Virtual Server Monitoring & Performance Optimization
+> Real-time ETL pipeline processing 5,000+ server log records across 10+ VMs, with threshold-based anomaly detection and an 8-visual Power BI report
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Key Features:**
+- ✅ ETL pipeline for multi-VM server logs
+- ✅ Threshold-based anomaly detection
+- ✅ Cut CPU-issue identification time by 60%
+- ✅ 8-visual Power BI report cutting manual oversight by 40%
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
+
+---
+
+### 🎵 Music Recommender
+> Personalised music recommendation engine using collaborative filtering and user listening patterns
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/music-recommender)
+
+---
+
+### 👗 Outfit Recommender
+> Content-based outfit suggestion system using ML and visual attribute matching
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/outfit-recommender)
 
 <br/>
 
