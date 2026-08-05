@@ -137,6 +137,10 @@ status: Actively seeking full-time opportunities in Bengaluru
 - ✅ Department-level salary analysis
 
 [![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
+
+---
+
+
 ### 🖥 Virtual Server Monitoring & Performance Optimization
 > Real-time ETL pipeline processing 5,000+ server log records across 10+ VMs, with threshold-based anomaly detection and an 8-visual Power BI report
 
