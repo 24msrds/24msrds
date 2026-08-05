@@ -20,8 +20,10 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -90,6 +92,61 @@
 
 ---
 
+### 🖥 Virtual Server Monitoring & Performance Optimization
+> Real-time ETL pipeline processing 5,000+ server log records across 10+ VMs, with threshold-based anomaly detection and an 8-visual Power BI report
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Key Features:**
+- ✅ ETL pipeline for multi-VM server logs
+- ✅ Threshold-based anomaly detection
+- ✅ Cut CPU-issue identification time by 60%
+- ✅ 8-visual Power BI report cutting manual oversight by 40%
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
+
+---
+### 📊 HR Analytics Dashboard
+> End-to-end Power BI dashboard analysing employee attrition drivers across 1,470 records using DAX measures and AI visuals (Key Influencers, Decomposition Tree)
+
+**Tech Stack:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-yellow?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Key Features:**
+- ✅ 3-page interactive Power BI dashboard
+- ✅ 6+ custom DAX measures
+- ✅ AI visuals — Key Influencers & Decomposition Tree
+- ✅ Surfaced attrition drivers: overtime, department trends
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/hr-analytics-dashboard)
+
+---
+
+### 💰 Payroll Attendance Monitoring System
+> Automated payroll and attendance tracking system that eliminates manual entry and flags absenteeism, overtime, and payroll discrepancies in real time
+
+**Tech Stack:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Key Features:**
+- ✅ Automated multi-source data consolidation
+- ✅ Real-time absenteeism & overtime tracking
+- ✅ Payroll discrepancy popup alerts
+- ✅ Department-level salary analysis
+
+[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
+
+---
+
 ### 🎵 Music Recommender
 > Personalised music recommendation engine using collaborative filtering and user listening patterns
 
@@ -113,21 +170,9 @@
 
 ---
 
-### 🖥 Server Monitoring Data Pipeline
-> Real-time ETL pipeline that collects, processes and visualises server metrics
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 ![Ragul's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -149,5 +194,3 @@
 *"Data is the new oil — and I'm here to refine it."* 🚀
 
 </div>
-
-    
