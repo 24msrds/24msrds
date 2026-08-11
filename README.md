@@ -1,58 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A67E&height=200&section=header&text=Ragul%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Analytics%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A67E&height=180&section=header&text=Ragul%20B&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Business%20Analyst&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ragul-b-058155281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:raghuldominick1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:raghuldominick07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/24msrds"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=24msrds.24msrds&style=for-the-badge&color=0A66C2" />
+<a href="https://24msrds.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 🎯 About Me
+## About
 
-```yaml
-name: Ragul B
-role: Data Analyst | Data Engineer | Business Analyst
-education: M.Sc Data Science & Analytics, Jain University, Bengaluru
-focus: Turning raw data into decision-ready insights
-tools: [Python, SQL, Power BI, Tableau, GenAI/RAG]
-status: Actively seeking full-time opportunities in Bengaluru
-```
+I'm a Data Analyst and Data Engineer based in Bengaluru, with an M.Sc. in Data Science and Analytics from Jain University. I build ETL pipelines, BI dashboards, and AI-powered tools that turn raw data into decisions — most recently an ETL pipeline that cut CPU-issue identification time by 60%, and a Power BI dashboard that surfaced a 16% attrition rate from HR data.
+
+I'm currently looking for full-time Data Analyst, Data Engineer, or Business Analyst roles. Full project write-ups and live demos are on my [portfolio site](https://24msrds.github.io).
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,vscode&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,git,vscode&theme=dark" height="42"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured projects
 
 ---
 
-### 🏏 Final ODI Team Selector
-> AI-driven ODI cricket team selector that recommends the optimal playing XI using player stats, match conditions and ML algorithms
+### Final ODI Team Selector
+AI-driven ODI cricket team selector that recommends the optimal playing XI using player stats, match conditions, and ML algorithms.
 
 <div align="center">
 
@@ -60,24 +52,20 @@ status: Actively seeking full-time opportunities in Bengaluru
 
 </div>
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+`Python` `Streamlit` `Scikit-Learn` `Plotly` `FastAPI`
 
-**Key Features:**
-- ✅ ML-based player performance analysis
-- ✅ Match condition & venue-based selection
-- ✅ Interactive Streamlit dashboard with Plotly charts
-- ✅ Optimal XI recommendation engine
+- ML-based player performance analysis
+- Match condition and venue-based selection
+- Interactive dashboard with live Plotly charts
+- Presented at INFUSE 2025, Jain University
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-10a37f?style=for-the-badge&logoColor=white)](https://final-odi-selector-nv3ri4rfmt6n7fmpgqjswm.streamlit.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/Final-ODI-selector)
 
 ---
 
-### 🤖 RD AI — Multi-Modal AI Assistant
-> Free premium-grade AI assistant with live web search, image vision, document processing, voice input and RAG pipeline — built with Streamlit and Groq LLaMA models
+### RD AI — Multi-Modal AI Assistant
+RAG-based AI assistant with live web search, image vision, document processing, voice input, and a Groq LLaMA backend — answers only from retrieved, cited sources.
 
 <div align="center">
 
@@ -85,115 +73,84 @@ status: Actively seeking full-time opportunities in Bengaluru
 
 </div>
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLaMA-00A67E?style=flat&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+`Python` `Streamlit` `Groq / LLaMA 3.3 70B` `SQLite` `RAG`
 
-**Key Features:**
-- ✅ Live RAG web search — DuckDuckGo + Wikipedia
-- ✅ Image vision analysis — LLaMA 4 Scout
-- ✅ PDF, DOCX, Excel, CSV processing
-- ✅ Voice input and output
-- ✅ Chat history with SQLite
-- ✅ 6 response modes
+- Live RAG web search across DDGS, news, Wikipedia, and Instant Answer
+- Image vision analysis via LLaMA 4 Scout
+- PDF, DOCX, Excel, and CSV file processing
+- Voice input and output, with chat history in SQLite
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo%20→-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
-
----
-### 📊 HR Analytics Dashboard
-> End-to-end Power BI dashboard analysing employee attrition drivers across 1,470 records using DAX measures and AI visuals (Key Influencers, Decomposition Tree)
-
-**Tech Stack:**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-yellow?style=flat)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-**Key Features:**
-- ✅ 3-page interactive Power BI dashboard
-- ✅ 6+ custom DAX measures
-- ✅ AI visuals — Key Influencers & Decomposition Tree
-- ✅ Surfaced attrition drivers: overtime, department trends
-
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/hr-analytics-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-10a37f?style=for-the-badge&logoColor=white)](https://24msrds-rd-ai-app-qqlobk.streamlit.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/RD_AI)
 
 ---
 
-### 💰 Payroll Attendance Monitoring System
-> Automated payroll and attendance tracking system that eliminates manual entry and flags absenteeism, overtime, and payroll discrepancies in real time
+### HR Analytics Dashboard
+End-to-end Power BI dashboard analyzing employee attrition drivers across 1,470 records, using DAX measures and AI visuals.
 
-**Tech Stack:**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+`Power BI` `DAX` `Power Query` `Excel`
 
-**Key Features:**
-- ✅ Automated multi-source data consolidation
-- ✅ Real-time absenteeism & overtime tracking
-- ✅ Payroll discrepancy popup alerts
-- ✅ Department-level salary analysis
+- 3-page interactive Power BI dashboard
+- 6+ custom DAX measures
+- AI visuals — Key Influencers and Decomposition Tree
+- Surfaced a 16% attrition rate and its key drivers (overtime, department trends)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
-
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/hr-analytics-dashboard)
 
 ---
 
+### Virtual Server Monitoring & Performance Optimization
+Real-time ETL pipeline processing 5,000+ server log records across 10+ VMs, with threshold-based anomaly detection.
 
-### 🖥 Virtual Server Monitoring & Performance Optimization
-> Real-time ETL pipeline processing 5,000+ server log records across 10+ VMs, with threshold-based anomaly detection and an 8-visual Power BI report
+`Python` `SQL` `SQLite` `SQLAlchemy` `Power BI`
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+- ETL pipeline for multi-VM server logs
+- Threshold-based anomaly detection
+- Cut CPU-issue identification time by 60%
+- 8-visual Power BI report, cutting manual oversight by 40%
 
-**Key Features:**
-- ✅ ETL pipeline for multi-VM server logs
-- ✅ Threshold-based anomaly detection
-- ✅ Cut CPU-issue identification time by 60%
-- ✅ 8-visual Power BI report cutting manual oversight by 40%
-
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/server-monitoring-data-pipeline)
 
 ---
 
-### 🎵 Music Recommender
-> Personalised music recommendation engine using collaborative filtering and user listening patterns
+### Payroll Attendance Monitoring System
+Automated payroll and attendance tracking system that flags absenteeism, overtime, and payroll discrepancies in real time.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+`Power BI` `Power Automate` `Excel`
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/music-recommender)
+- Automated multi-source data consolidation
+- Real-time absenteeism and overtime tracking
+- Payroll discrepancy popup alerts
+- Department-level salary analysis
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/payroll-attendance-monitoring-system)
 
 ---
 
-### 👗 Outfit Recommender
-> Content-based outfit suggestion system using ML and visual attribute matching
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**Music Recommender** — Personalized recommendation engine using collaborative filtering. `Python` `Scikit-Learn` `Pandas`
+[Repository →](https://github.com/24msrds/music-recommender)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24msrds/outfit-recommender)
+**Outfit Recommender** — Content-based outfit suggestion system using ML and visual attribute matching. `Python` `Scikit-Learn`
+[Repository →](https://github.com/24msrds/outfit-recommender)
+
+</details>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=24msrds&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24msrds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24msrds&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24msrds&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=24msrds&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -201,12 +158,10 @@ status: Actively seeking full-time opportunities in Bengaluru
 
 <div align="center">
 
-### 💬 Let's connect and build something great together
+**Let's connect and build something with data.**
 
 <a href="https://www.linkedin.com/in/ragul-b-058155281/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-*"Data is the new oil — and I'm here to refine it."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,100:0A66C2&height=90&section=footer" width="100%"/>
 
 </div>
